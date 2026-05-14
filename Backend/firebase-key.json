@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fastshopping-65fff",
+  "private_key_id": "e439a00f1779c46fd2fdcbf6f2e91e52e08b1b1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJZS59gSI7sRRX\nqV3OyJxvRpbHtYdL48xffESDDi15bjURoZu3eI+5jk46E0xb+rvYjL/o9i8iV9/w\nKqoP4nHrhAklMuDCa0CTf7q6YUsVnSEcjWcgQOLw7EKaimEZdIv8RO9gCGImG3tX\nVNnr8ClQ/mrz3BJ1x2qXemC+9Pp4j1U4oMEgl/4+TTCFNIT4YOmCXcLRQi6xy+Gb\nZa8qb7Wo/unZfRYpBsmjQ9NtppOZXadPkk8z87NV1qnCEZlJpy77ydLXsVcqRN+b\n9TNfmy749bCKhjdAtoupIaF03s+Hx8/uT4XYkyqYiD8PpBNF8I9s4SUQZtfNE4ZS\nPON7s1nZAgMBAAECggEABVyS/Abh0y5/8OSCqZRoK8M4lOkFiNTv9jPP/CA2wDaZ\npZZEl8IXK3S5Ku0kGYfHk/iNTGWvdA3cWZ+9Js6bw04g0zNzTeG+lp6uKTOZZOIp\nxUGTdwWbNRhJHqWj96JFbsokCE241TRimHzbD1+1reEUFllryWRtd0psBHFvsKFu\nHawq9bmG02g2VohovBJ83ixeTwZZTSoDob5OJDVZLoBLYJ8+DgarjGFH2j7c/dOC\nZfVK6wpISPIoC+EmCs4EfpcGTADjAyUMstrv0mYoIkchYw5UrwVw8FK1BtnrtPsz\nZMnFQoctLg61tpCb4BjdVjj02FJrXoZkgyXQmNHHXQKBgQD1+rFCdBqRYmYW9XEN\nDAWETXaiTHKfeXgiXl6cxgJAelkp6QXXJ3/J3x4SC1KXQAUm0pClv9em7UOHCV0L\nOpU+LFxTp9ZVsMe+xICt8bXpDTOAzdYTH2AMyGjFGAYsB7ftOyQDyy1I/sCFNkX0\n9Qq68rC2gbPKPKPJnL5Mywn/HQKBgQDRmYYzFst52p0BBbtJMZ2dO3iI93Q2Hmue\ns2hw/eeDXQQviV+PhOMrMJD6WLj4w1rj05VcFIZghbVcTl+ve4dHCFrE6g91PJal\nF6C7qygjfJMsXyewBLU/7imtqJnnodKSjW/y1zqRDPCDQ3CdWbPqi/kt/m3X+xFZ\nqb6+zMcc7QKBgQC205FC6lcA7lkhAWb4opHLJ2Rg919OxxMSwH+kGMx9rjJtoyRT\nKamimvKXyNCnWM87btBSUgfwq3NAgCYm/XEGGCS7jQkTAeVFFnrqTri9srEwME3I\nQs66UY8Fx3h263m6mvWG2FIdajQgDxnqGuPR1iagUEEYtP+sD5OmMleIxQKBgH4a\nxjkar9ViiC/DSQkihtfAniaZ6xtcdheHjYDd4lqQriIDnrD0nNCxaaiVlMRmlNqZ\nxDUgTDDqgVFF/h/QTHWaOzJaOG6qw2AUtSn0MjQXkVyS64flbT9HhV/sHpzUKaLu\n4bnTcHMwu8vd2XVyMOMe0A6yE1hsv+WYUSDuh6WJAoGBAItOt7WTX6mXePFSr1hP\nrTphEDXbC5bzE0bqRqpEDfUmnb02fc2i2dzdc2xj4Ay9r2ZgR4Gbq+F5hwPFVF8a\nqk8qdR380R1uNHwdYZvINOREwKs9iyIUlRSaxqU5PZf7julS9If684No1d5x4MFK\nEHZ0VSz+ibL3UiBrM12upErv\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@fastshopping-65fff.iam.gserviceaccount.com",
+  "client_id": "103169660017514896488",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40fastshopping-65fff.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
